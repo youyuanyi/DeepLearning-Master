@@ -1,0 +1,7 @@
+wrn16_10_cifar10:
+begin acc: 0.83
+adv acc: 0.81
+
+resnet34:
+begin acc: 0.59
+adv acc: 0.58
